@@ -56,6 +56,7 @@ button + .breadcrumbs {
 
 #copy-url {
   content: "";
+  filter: var(--codetools-button-filter);
   background-image: url(../img/url.svg);
   background-repeat: no-repeat;
   background-size: contain;
